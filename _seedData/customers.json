@@ -1,0 +1,92 @@
+[
+	{
+		"_id": "5d713995b721c3bb38c1f5d8",
+		"name": "Vineeta Kapoor",
+		"email": "vineeta@gmail.com",
+		"currentBalance": 30078,
+		"accountNo": 1013,
+		"age": 48,
+		"gender": "F"
+	},
+	{
+		"_id": "5d713a66ec8f2b88b8f830b8",
+		"name": "Karan Sharma",
+		"email": "sharma.karan@gmail.com",
+		"currentBalance": 40840,
+		"accountNo": 1015,
+		"age": 49,
+		"gender": "M"
+	},
+	{
+		"_id": "5f7393d26f1ecc2ef503e8b9",
+		"name": "Manish Singh",
+		"email": "manish098@gmail.com",
+		"currentBalance": 62193,
+		"accountNo": 1016,
+		"age": 60,
+		"gender": "M"
+	},
+	{
+		"_id": "5f7393ead30b3f34b5f617b3",
+		"name": "Yash Singhania",
+		"email": "yash076@gmail.com",
+		"currentBalance": 89430,
+		"accountNo": 1017,
+		"age": 30,
+		"gender": "M"
+	},
+	{
+		"_id": "5f73943499a813dc7c61469c",
+		"name": "Misha Roy",
+		"email": "misha001@gmail.com",
+		"currentBalance": 67257,
+		"accountNo": 1012,
+		"age": 31,
+		"gender": "F"
+	},
+	{
+		"_id": "5f73942f4c2643c123047191",
+		"name": "Shreysth Anand",
+		"email": "anand243@gmail.com",
+		"currentBalance": 40400,
+		"accountNo": 1001,
+		"age": 43,
+		"gender": "M"
+	},
+	{
+		"_id": "5f73943a4fc6d18fc6f03a0c",
+		"name": "Ajay Nayar",
+		"email": "ajay75@gmail.com",
+		"currentBalance": 45351,
+		"accountNo": 1009,
+		"age": 38,
+		"gender": "M"
+	},
+	{
+		"_id": "5f739441183e8f6b931040a2",
+		"name": "Suresh Pandey",
+		"email": "suresh45@gmail.com",
+		"currentBalance": 20085,
+		"accountNo": 1010,
+		"age": 45,
+		"gender": "M"
+	},
+	{
+		"_id": "5f739441183e8f6b931040a4",
+		"name": "Abhay Singh",
+		"email": "abhaysingh01@gmail.com",
+		"currentBalance": 33885,
+		"accountNo": 1002,
+		"age": 53,
+		"gender": "M"
+	},
+	{
+		"_id": "5f739441183e6f6b931040a2",
+		"name": "Ravi Bhagat",
+		"email": "ravi0985@gmail.com",
+		"currentBalance": 34594,
+		"accountNo": 1003,
+		"age": 46,
+		"gender": "M"
+    }
+]
